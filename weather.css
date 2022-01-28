@@ -6,7 +6,7 @@
 
 body{
     background-repeat: no-repeat;
-    background-image: url('images1/weather1.jpg');
+    background-image: url('weather1.jpg');
     height: 100vh;
     overflow: hidden;
     background-position:top center ;
